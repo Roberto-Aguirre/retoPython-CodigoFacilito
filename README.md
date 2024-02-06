@@ -1,1 +1,6 @@
-<h1>Retos realizados</h1>h1>
+<h1>Retos realizados</h1>
+<ul>
+  <li>Reto #1 Reto de la primera clase realizado el <strong>06/02/2024</strong></li>
+  <p>Consta de inputs de nombre, y cambios de tipo como puede ser int(), float() y str()</p>
+  <li>Reto #2 </li>
+</ul>
