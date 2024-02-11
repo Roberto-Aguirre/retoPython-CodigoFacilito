@@ -43,3 +43,4 @@ if type(usuarios_registro) == int :
        
     for index,listado_id in enumerate(listado_ids):
         print("|ID",listado_ids[index],"|Nombre:",listado_usuarios[index])
+
