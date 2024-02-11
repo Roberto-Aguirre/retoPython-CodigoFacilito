@@ -1,22 +1,12 @@
 #Codigo creado por Roberto Ivan Aguirre Silerio para la semana de #RetoPython.Gracias. 
 import os
- 
-
-
-print("\n$$$$$$$$$$ INGRESAR SOLO NUMEROS $$$$$$$$$$$$$\n")
-
-
 
 lista_usuario = []
 
-##Menu de inicio
-# Añadir usuarios
-# Lista usuarios 
-# Consultar usuarios 
-# Editar usuario 
-
 ##? Metodo para limpiar la consola
 os.system('cls')
+
+print("\n$$$$$$$$$$ INGRESAR SOLO NUMEROS $$$$$$$$$$$$$\n")
 
 print("Bienvenido al sistema de gestion de usuarios")
 print("Se encuentran las siguientes opciones en el sistemas:")
@@ -186,11 +176,3 @@ while opcion_usuario != 5:
         print("4.Editar usuario por ID")
         print("5.Salir")
         opcion_usuario = int(input(">> "))    
-
-
-    ## Diccionario
-    ##Lista a traves de ID los usuarios registrados
-    ## Ver informacion del usuario con respecto a un Id
-    ##Editar la informacion de un usuario con respecto a un ID (Pedira los registros de nuevo)
-
-    
